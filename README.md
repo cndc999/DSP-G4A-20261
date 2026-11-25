@@ -38,7 +38,7 @@ This repository stores all source code, data, documents, and evidence of the tea
 
 ## Challenge data for other teams
 
-Challenge datasets must be uploaded to the shared [Google Drive folder](https://drive.google.com/drive/folders/1ITuDtuFODzus5bAaQVihR5sXhCHIapS5?usp=sharing).
+Challenge datasets must be uploaded to the shared [Google Drive folder] ().
 
 Inside that shared folder, use the following structure:
 
